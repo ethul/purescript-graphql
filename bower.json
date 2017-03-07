@@ -1,0 +1,12 @@
+{
+  "name": "purescript-graphql",
+  "license": "MIT",
+  "ignore": [
+    "*",
+    "!src/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ethul/purescript-graphql.git"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "purescript-graphql",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "psc": "../releases/0.10/psc 'bower_components/purescript-*/src/**/*.purs' 'src/**/*.purs'"
+  }
+}
